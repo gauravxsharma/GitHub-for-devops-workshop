@@ -17,3 +17,20 @@
   24 rm testing.py
   25 git restore testing.py
   26 git history
+  27 history
+  28 git status
+  29 git status
+  30 git status
+  31 git commit -m "added git command"
+  32 git add .
+  33 git commit -m "added git command"
+  34 git status
+  35 dir
+  36 git remote add origin https://github.com/gauravxsharma/... 
+  37 ls
+  38 dir
+  39 git remote add origin https://github.com/gauravxsharma/...
+  40 git remote -v
+  41 git push -u origin main
+  42 git push origin master
+  43 git push origin master
